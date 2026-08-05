@@ -1,8 +1,24 @@
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3514/3514491.png" alt="ShopNest Logo" width="80" />
   <h1>ShopNest - Full-Stack MERN E-Commerce App</h1>
-  <p>A professionally engineered, full-stack E-commerce platform built strictly using modern standard React (CRA) on the frontend and Express/MongoDB on the backend.</p>
+  <p>A production-ready full-stack e-commerce platform built using MongoDB, Express.js, React.js, and Node.js with authentication, product management, payment integration, and admin features.</p>
 </div>
+
+---
+
+# 🚀 Key Features
+
+- 🔐 JWT Authentication & Authorization
+- 👤 User Registration & Login
+- 🛍️ Product Management
+- 🛒 Shopping Cart
+- 📦 Order Management
+- 💳 Razorpay Payment Integration
+- ☁️ Cloudinary Image Upload
+- 👨‍💼 Admin Dashboard
+- 📜 Order History
+- 📱 Responsive User Interface
+- 🔄 RESTful API Architecture
 
 ---
 
